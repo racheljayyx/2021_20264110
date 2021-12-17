@@ -1,0 +1,5 @@
+C:/Users/rjais/2021_20264110/worksheet_five/hello_qt/hello_qt_cm/msvc_build/config.tests/static_link_order/CMakeFiles/objLib.dir
+C:/Users/rjais/2021_20264110/worksheet_five/hello_qt/hello_qt_cm/msvc_build/config.tests/static_link_order/CMakeFiles/staticLib.dir
+C:/Users/rjais/2021_20264110/worksheet_five/hello_qt/hello_qt_cm/msvc_build/config.tests/static_link_order/CMakeFiles/static_link_order_test.dir
+C:/Users/rjais/2021_20264110/worksheet_five/hello_qt/hello_qt_cm/msvc_build/config.tests/static_link_order/CMakeFiles/ALL_BUILD.dir
+C:/Users/rjais/2021_20264110/worksheet_five/hello_qt/hello_qt_cm/msvc_build/config.tests/static_link_order/CMakeFiles/ZERO_CHECK.dir

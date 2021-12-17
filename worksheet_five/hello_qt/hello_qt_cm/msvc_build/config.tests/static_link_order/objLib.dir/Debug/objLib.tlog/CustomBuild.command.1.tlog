@@ -1,0 +1,10 @@
+^C:\QT\6.2.1\MSVC2019_64\LIB\CMAKE\QT6\CONFIG.TESTS\STATIC_LINK_ORDER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Qt/6.2.1/msvc2019_64/lib/cmake/Qt6/config.tests/static_link_order -BC:/Users/rjais/2021_20264110/worksheet_five/hello_qt/hello_qt_cm/msvc_build/config.tests/static_link_order --check-stamp-file C:/Users/rjais/2021_20264110/worksheet_five/hello_qt/hello_qt_cm/msvc_build/config.tests/static_link_order/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

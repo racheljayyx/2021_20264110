@@ -1,0 +1,3 @@
+C:/Users/rjais/2021_20264110/worksheet4/hello_cmake/second_build/CMakeFiles/hello.dir
+C:/Users/rjais/2021_20264110/worksheet4/hello_cmake/second_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/rjais/2021_20264110/worksheet4/hello_cmake/second_build/CMakeFiles/ZERO_CHECK.dir

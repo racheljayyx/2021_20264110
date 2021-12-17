@@ -1,0 +1,10 @@
+^C:\USERS\RJAIS\2021_20264110\WORKSHEET4\HELLO_CMAKE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/rjais/2021_20264110/worksheet4/hello_cmake -BC:/Users/rjais/2021_20264110/worksheet4/hello_cmake/second_build --check-stamp-file C:/Users/rjais/2021_20264110/worksheet4/hello_cmake/second_build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

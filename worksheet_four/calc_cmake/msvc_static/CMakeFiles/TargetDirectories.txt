@@ -1,0 +1,4 @@
+C:/Users/rjais/2021_20264110/calc_cmake/msvc_static/CMakeFiles/calc.dir
+C:/Users/rjais/2021_20264110/calc_cmake/msvc_static/CMakeFiles/maths.dir
+C:/Users/rjais/2021_20264110/calc_cmake/msvc_static/CMakeFiles/ALL_BUILD.dir
+C:/Users/rjais/2021_20264110/calc_cmake/msvc_static/CMakeFiles/ZERO_CHECK.dir
