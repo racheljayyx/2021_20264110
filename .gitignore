@@ -18,6 +18,7 @@
 *.exe
 *.o
 *.so
+*.html
 build/
 *_pch.h.cpp
 *_resource.rc
