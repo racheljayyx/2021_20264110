@@ -35,6 +35,14 @@
 // before declarations. This is a Microsoft specific
 // extension to C/C++
 
+/** @file
+* This file contains the declarations of all exported functions.
+*/
+/** Brief description
+* This description will hopefully be picked up on by doxygen
+*/
+
+
 // prototype for our function
 MATHSLIB_API int add( int a, int b );
 #endif
