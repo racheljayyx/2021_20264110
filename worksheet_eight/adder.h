@@ -36,14 +36,6 @@
 // extension to C/C++
 
 // prototype for our function
-
-/** @file
-* This file contains the declarations of all exported functions.
-*/
-/** Brief description
-* This description will hopefully be picked up on by doxygen
-*/
-
 MATHSLIB_API int add( int a, int b );
 #endif
 // / calc_cmake/adder.h --------------------------------------
